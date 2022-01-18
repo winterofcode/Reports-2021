@@ -13,7 +13,7 @@
 - Any bugs fixed
 - Your PR's
 
-**NOTE** - Provide all the necessary links(PR Links)
+**NOTE** - Provide all the necessary links(eg - PR Links)
  
 # Future Scope
 
