@@ -1,4 +1,4 @@
-# Final Report of students
+# Winter of Code 2021 Report
 
 Please check the [template](firstname-lastname.md) to draft your report.
 
