@@ -10,7 +10,7 @@ I have been learning web development for the past 1 year. I initially started wi
 
 
 ## Overview of Project
-Fun with science is a project which consists of multiple calculators that can solve many physics, chemistry and math problems. It also consists of many questions to practice. The questions are manly focused on the students preparing for JEE and NEET exams.
+Fun with science is a project which consists of multiple calculators that can solve many physics, chemistry and math problems. It also consists of many questions to practice. The questions are manly focused on the students preparing for JEE and NEET exams. The user can just enter the required values in the calculators provided by the website and the results are provided.
 
 ### Contributions
 
@@ -21,7 +21,7 @@ Fun with science is a project which consists of multiple calculators that can so
 - In the second phase my objective was to implement the calculators in the geometry section.
 - I started with the parabola and implemented the parabola calculator, incorporated the main formulas of the parabola. After implementing the parabola calculator I had to change the representation by adding two forms of parabola. The same thing was implemented in ellipse.
 - In the similar way I started implementing the calculator for ellipse. I also added a new npm package called Fractional to convert decimals into fractional form.
-- Here are the links to my PR : 
+- Here are the links to my PRs : 
 - [Added Einstein photo electric, angular momentum,velocity,radius of electron calculators.](https://github.com/Tech-N-Science/FunwithScience/pull/275)
 - [Added more Calculators](https://github.com/Tech-N-Science/FunwithScience/pull/304)
 - [Added Parabola Calculator and Crompton Wavelength](https://github.com/Tech-N-Science/FunwithScience/pull/318)
