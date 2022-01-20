@@ -12,7 +12,13 @@ This is faster because it needs no server side interaction while calculating and
 ### Contributions
 
 <ol>
-  <li></li>
+  <li>
+    #### Fixed the responsiveness of calculators
+    Previously the calculator page was like this:
+    ![image](https://user-images.githubusercontent.com/67837886/150367660-8742354c-3f98-4304-bbf2-2082dbcb216e.png)
+    I have made the page looked like this:
+    ![image](https://user-images.githubusercontent.com/67837886/150367832-30eb25bb-af03-4936-a297-2bef69517f01.png)
+  </li>
 </ol>
  
 ## Future Scope
