@@ -8,12 +8,12 @@
 DSC NSEC/Devprofile is a user-profile web-app, which fetches the data from user's github and display it on dashboard. 
 ### Contributions
 
-- In phase 1, my task was to built a form page which collects the data from user manually. 
+#### In phase 1, my task was to built a form page which collects the data from user manually. 
 - I made a figma prototype for the form.
 - After learning and became familiar with the react and ant-design. I have built form page. 
 - It has inputs and a loading button and after clicking it, notification also pop-up.
 
-- In phase 2 my task was to store the data in mongodb database.
+#### In phase 2 my task was to store the data in mongodb database.
 - After clicking on save button, the whole data is updated in the user's database.
 - And display it on dashboard from database.
 - Small bugs were also fixed.
