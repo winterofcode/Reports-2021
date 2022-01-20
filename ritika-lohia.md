@@ -18,7 +18,7 @@ DSC NSEC/Devprofile is a user-profile web-app, which fetches the data from user'
 - And display it on dashboard from database.
 - Small bugs were also fixed.
 
-- Here are the link's to my PR :
+#### Here are the link's to my PR :
 - [Form page] (https://github.com/dscnsec/devprofile/pull/2)
 - [small bugs resolved] (https://github.com/dscnsec/devprofile/pull/7)
 - [for bugs resolved] (https://github.com/dscnsec/devprofile/pull/6)
