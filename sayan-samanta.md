@@ -13,11 +13,16 @@ This is faster because it needs no server side interaction while calculating and
 
 <ol>
   <li>
-    #### Fixed the responsiveness of calculators
+    <h4>Fixed the responsiveness of calculators</h4>
     Previously the calculator page was like this:
-    ![image](https://user-images.githubusercontent.com/67837886/150367660-8742354c-3f98-4304-bbf2-2082dbcb216e.png)
+    <img src="https://user-images.githubusercontent.com/67837886/150367660-8742354c-3f98-4304-bbf2-2082dbcb216e.png" />
     I have made the page looked like this:
-    ![image](https://user-images.githubusercontent.com/67837886/150367832-30eb25bb-af03-4936-a297-2bef69517f01.png)
+    <img src="https://user-images.githubusercontent.com/67837886/150367832-30eb25bb-af03-4936-a297-2bef69517f01.png" />
+  </li>
+  <li>
+    <h4>Added image blurred fast load</h4>
+    Previously the image was taking much time to load in login and signup page:
+    
   </li>
 </ol>
  
