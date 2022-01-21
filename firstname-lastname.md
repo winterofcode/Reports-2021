@@ -1,10 +1,10 @@
 # Winter of Code 2021 Final Contribution Report
 
 ## Organisation Name : Project Name
-## Mentored by :
-## FirstName LastName
+## Mentored by : Mentor Name
+## Your FirstName LastName
 
-## Overview
+## Overview of Project
 
 ### Contributions
 
@@ -15,6 +15,6 @@
 
 **NOTE** - Provide all the necessary links(eg - PR Links)
  
-# Future Scope
+## Future Scope
 
-# Overall Experience
+## Overall Experience
