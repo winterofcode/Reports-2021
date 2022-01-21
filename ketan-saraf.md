@@ -1,7 +1,7 @@
 # Winter of Code 2021 Final Contribution Report 🙌
 
 ## Organisation Name : Gepton 🐦
-## Mentored by : Abhibhaw Sir
+## Mentored by : Satyaprakash Karshama
 ## Ketan Saraf
 
 ## 📕 Overview of Project 
