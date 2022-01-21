@@ -1,6 +1,7 @@
 # Winter of Code 2021 Final Contribution Report
 
-## Organisation Name : Coding-Arts
+## Organisation Name : DSC-NSEC 
+## Project Name : Coding-Arts
 ## Mentored by : Sweta Seth
 ## Tushar Sachan
 
