@@ -5,8 +5,8 @@
 ## Sayan Samanta
 
 ## Overview of Project
-FunwithScience is the project to make your life easy by providing come physics, mathematics complex calculators which takes few milliseconds to calculate certain complex values.
-Also it provides the questions section to assess your learning. Hhere the user just needs to enter the values and the project calculates the result using the formula within milliseconds.
+FunwithScience is the project to make your life easy by providing some physics, mathematics complex calculators which takes few milliseconds to calculate certain complex values.
+Also it provides the questions section to assess your learning. Here the user just needs to enter the values and the project calculates the result using the formula within milliseconds.
 This is faster because it needs no server side interaction while calculating and all. It is built using react.js for calculators, pages and php for backend.
 
 ### Contributions
@@ -31,5 +31,7 @@ This is faster because it needs no server side interaction while calculating and
 </ol>
  
 ## Future Scope
+This project is really helpful for everyone who wants to calculate complex calculations and learn formulas with explanation. I am also very much impressed with that motive. I will keep comtributing whenever any innovative idea will come to me. It has a very bright future scope.
 
 ## Overall Experience
+I am contributing to a real world large scale project for the time through this. So my experience remained really great with the team. My mentor was really helpful throughout the time. This experience helps me to have more motivation towards future open source contribution. Last but not the least to mention that this project helped me to learn a lot while contributing to it, which was my main motive for the participation.
