@@ -21,8 +21,12 @@ This is faster because it needs no server side interaction while calculating and
   </li>
   <li>
     <h4>Added image blurred fast load</h4>
-    Previously the image was taking much time to load in login and signup page:
-    
+    (BEFORE) Previously the image was taking much time to load in login and signup page:
+    <img src="https://user-images.githubusercontent.com/67837886/150639066-e3c2ea52-72b7-4ecf-9525-44f060076cd9.gif" />
+    <br>
+    (AFTER) I have optimised the image loading to load blurred version first to give better user experience
+    <img src="https://user-images.githubusercontent.com/67837886/150639118-fddbcaf5-94ff-4af0-ba5a-cd12c1522903.gif" />
+
   </li>
 </ol>
  
