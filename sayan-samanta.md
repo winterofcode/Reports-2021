@@ -46,6 +46,18 @@ This is faster because it needs no server side interaction while calculating and
     <br>
     <img src="https://user-images.githubusercontent.com/67837886/150643047-90df26c7-089f-419c-aaba-1f70b571388e.gif" />
   </li>
+  <li>
+    <h4>Added animation on scroll</h4>
+    <img src="https://user-images.githubusercontent.com/67837886/150643290-1d2c1d44-5247-474b-8ee7-f47b8b672616.gif" />
+  </li>
+  <li>
+    <h4>My Other PRs:
+      <ul>
+        <li><a href="https://github.com/Tech-N-Science/FunwithScience/pull/302">Numerical question submit handling fixed </a></li>
+        <li><a href="https://github.com/Tech-N-Science/FunwithScience/pull/311">Fixed the mcq question's answer verification </a></li>
+        <li><a href="https://github.com/Tech-N-Science/FunwithScience/pull/313">Optimised the background image from 267kb to 168kb to fix the lag on scroll</a></li>
+      </ul>
+  </li>
 </ol>
 
  
