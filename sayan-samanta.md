@@ -15,8 +15,11 @@ This is faster because it needs no server side interaction while calculating and
   <li>
     <h4>Fixed the responsiveness of calculators</h4>
     (BEFORE) Previously the calculator page was like this:
+    <br><br>
     <img src="https://user-images.githubusercontent.com/67837886/150367660-8742354c-3f98-4304-bbf2-2082dbcb216e.png" />
+    <br>
     (AFTER) I have made the page looked like this:
+    <br><br>
     <img src="https://user-images.githubusercontent.com/67837886/150367832-30eb25bb-af03-4936-a297-2bef69517f01.png" />
   </li>
   <li>
@@ -36,6 +39,12 @@ This is faster because it needs no server side interaction while calculating and
     (AFTER) I have implemented the "previous" button along with UI, responsivenss modifications:
     <br><br>
     <img src="https://user-images.githubusercontent.com/67837886/150642427-b909639b-9a3e-4fe1-a560-79a6638ec792.gif" />
+  </li>
+  <li>
+    <h4>Implemented slide animation on page routing</h4>
+    Upgraded the react-router-dom version 5 to version 6 in the project and implemented react-slide-routes in page routing:
+    <br>
+    <img src="https://user-images.githubusercontent.com/67837886/150643047-90df26c7-089f-419c-aaba-1f70b571388e.gif" />
   </li>
 </ol>
 
