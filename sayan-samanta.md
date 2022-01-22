@@ -1,8 +1,8 @@
 # Winter of Code 2021 Final Contribution Report
 
-## Tech-N-Science : FunwithScience
-## Mentored by : Amit Kumar Mishra
-## Sayan Samanta
+## Tech-N-Science : <a href="https://github.com/Tech-N-Science/FunwithScience">FunwithScience</a>
+## Mentored by : <a href="https://github.com/Amit366">Amit Kumar Mishra</a>
+## <a href="https://github.com/SayanDeveloper">Sayan Samanta</a>
 
 ## Overview of Project
 FunwithScience is the project to make your life easy by providing some physics, mathematics complex calculators which takes few milliseconds to calculate certain complex values.
@@ -14,6 +14,8 @@ This is faster because it needs no server side interaction while calculating and
 <ol>
   <li>
     <h4>Fixed the responsiveness of calculators</h4>
+    PR Link - <a href="https://github.com/Tech-N-Science/FunwithScience/pull/255">Click here to see</a>
+    <br><br>
     (BEFORE) Previously the calculator page was like this:
     <br><br>
     <img src="https://user-images.githubusercontent.com/67837886/150367660-8742354c-3f98-4304-bbf2-2082dbcb216e.png" />
@@ -24,6 +26,8 @@ This is faster because it needs no server side interaction while calculating and
   </li>
   <li>
     <h4>Added image blurred fast load</h4>
+    PR Link - <a href="https://github.com/Tech-N-Science/FunwithScience/pull/262">Click here to see</a>
+    <br><br>
     (BEFORE) Previously the image was taking much time to load in login and signup page:
     <img src="https://user-images.githubusercontent.com/67837886/150639066-e3c2ea52-72b7-4ecf-9525-44f060076cd9.gif" />
     <br>
@@ -32,6 +36,8 @@ This is faster because it needs no server side interaction while calculating and
   </li>
   <li>
     <h4>Implemented the "previous" button with logic and changed the UI in the questions page</h4>
+    PR Link - <a href="https://github.com/Tech-N-Science/FunwithScience/pull/301">Click here to see</a>
+    <br><br>
     (BEFORE) The questions pages were not responsive and there are no "previous" button:
     <br><br>
     <img src="https://user-images.githubusercontent.com/67837886/150642368-82986038-41df-4a0e-a1be-a737682598cb.gif" />
@@ -42,12 +48,16 @@ This is faster because it needs no server side interaction while calculating and
   </li>
   <li>
     <h4>Implemented slide animation on page routing</h4>
+    PR Link - <a href="https://github.com/Tech-N-Science/FunwithScience/pull/315">Click here to see</a>
+    <br><br>
     Upgraded the react-router-dom version 5 to version 6 in the project and implemented react-slide-routes in page routing:
     <br>
     <img src="https://user-images.githubusercontent.com/67837886/150643047-90df26c7-089f-419c-aaba-1f70b571388e.gif" />
   </li>
   <li>
     <h4>Added animation on scroll</h4>
+    PR Link - <a href="https://github.com/Tech-N-Science/FunwithScience/pull/313">Click here to see</a>
+    <br><br>
     <img src="https://user-images.githubusercontent.com/67837886/150643290-1d2c1d44-5247-474b-8ee7-f47b8b672616.gif" />
   </li>
   <li>
