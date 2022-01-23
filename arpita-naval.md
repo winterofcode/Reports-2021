@@ -19,11 +19,11 @@ Tech N Science is a website that provides JEE level questions/quizes and calcula
 - Small bug fixes in the contact section.
 
 #### Here are the link's to my PR :
-- [Home page] (https://github.com/Tech-N-Science/FunwithScience/pull/268)
-- [Added footer on different pages] (https://github.com/Tech-N-Science/FunwithScience/pull/277)
-- [Fixed Contact page UI] (https://github.com/Tech-N-Science/FunwithScience/pull/288)
-- [Bug fixes] (https://github.com/Tech-N-Science/FunwithScience/pull/290)
-- [Contact section] (https://github.com/Tech-N-Science/FunwithScience/pull/312)
+- [Home page](https://github.com/Tech-N-Science/FunwithScience/pull/268)
+- [Added footer on different pages](https://github.com/Tech-N-Science/FunwithScience/pull/277)
+- [Fixed Contact page UI](https://github.com/Tech-N-Science/FunwithScience/pull/288)
+- [Bug fixes](https://github.com/Tech-N-Science/FunwithScience/pull/290)
+- [Contact section](https://github.com/Tech-N-Science/FunwithScience/pull/312)
 
 
 ## Future Scope
