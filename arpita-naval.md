@@ -14,7 +14,7 @@ Tech N Science is a website that provides JEE level questions/quizes and calcula
 - Designed the Contact Page. 
 - Did some changes in the footer.
 
-#### In phase 2 my task was to store the data in mongodb database.
+#### In phase 2 my task was to work on card and fix bugs.
 - Added Animate on Scroll effect on learn more cards.
 - Small bug fixes in the contact section.
 
